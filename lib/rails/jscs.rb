@@ -1,7 +1,7 @@
-require "rails/jscs/version"
+require 'rails/jscs/version'
 
 module Rails
-  module Jscs
+  module JSCS
     # Your code goes here...
   end
 end
