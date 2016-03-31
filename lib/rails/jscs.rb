@@ -1,7 +1,7 @@
 require 'rails/jscs/version'
 
 module Rails
-  module JSCS
+  module Jscs
     # Your code goes here...
   end
 end
