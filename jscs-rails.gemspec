@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'rails/jscs/version'
+require 'jscs/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'jscs-rails'
-  spec.version       = Rails::Jscs::VERSION
+  spec.version       = Jscs::Rails::VERSION
   spec.authors       = ['Omoto Kenji']
   spec.email         = ['doloopwhile@gmail.com']
 
